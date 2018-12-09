@@ -12,6 +12,7 @@ int main()
     cin >> country;
     cout << "Podaj swoje imie: "<<endl;
     cin >> imie;
+    cout << "Czesc, "<< imie <<" z kraju "<< country <<"!";
 
     return 0;
 }
