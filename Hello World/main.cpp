@@ -22,6 +22,7 @@ int main()
     cin >> a;
     cout <<"DODAWNIE: "<<a+b;
     cout <<"ODEJMOWANIE: "<<a-b;
+    cout <<"MNOZENIE: "<<a*b;
 
     //Podaj numer dzialania ktore chcesz wykonac:
 
